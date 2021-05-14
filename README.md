@@ -38,11 +38,16 @@ Which Country has maximum Total cases, Deaths, Recovered &amp; active cases, wha
 
 This repository contains 6 files other than readme file
 
-Covid - 19 - Analysis.ipynb: Jupyter Notebook file contains all the python code, documentation and visualization
-worldometer_data.csv: Our dataset file
-usa_country_wise.csv : dataset file for usa country
-full_grouped.csv : dataset file for full grouped 
-day_wise.csv : dataset file for day_wise
-covid_19_clean_complete.csv : dataset file for  covid_19_clean
-country_wise_latest.csv : dataset file for country wise 
+1. Covid - 19 - Analysis.ipynb: Jupyter Notebook file contains all the python code, documentation and visualization
+2. worldometer_data.csv: Our dataset file
+3. usa_country_wise.csv : dataset file for usa country
+4. full_grouped.csv : dataset file for full grouped 
+5. day_wise.csv : dataset file for day_wise
+6. covid_19_clean_complete.csv : dataset file for  covid_19_clean
+7. country_wise_latest.csv : dataset file for country wise 
+
+
+# Dataset Information:
+
+Data was posted on Kaggle by Jesse Mostipak. 
 
